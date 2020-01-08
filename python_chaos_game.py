@@ -6,7 +6,8 @@
 #| https://en.wikipedia.org/wiki/Chaos_game#/media/File:V4_ban1.gif                  |
 #.___________________________________________________________________________________.
 #imports
-import cv2;import numpy as np
+import cv2
+import numpy as np
 from math import ceil , sqrt
 from random import sample
 import os
