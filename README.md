@@ -25,19 +25,15 @@ Cuando está listo se guarda en la carpeta res, como nombre se le asignan cierta
 # Elementos importados
 <br>
 
-
-```python
-import cv2
-import numpy as np
-from math import ceil , sqrt
-from random import sample
-import os
-```
-
+1. cv2
+2. numpy
+3. math (ceil , sqrt)
+4. random (sample)
+5. os
  
 # Funcionamiento
 <br>
 Se elige un punto de inicio y por cada iteración del programa elige uno de los vértices aleatoriamente (aunque se puede cambiar para que no reelija dos iguales seguidos), saca una fracción de la distacia entre el punto anterior y el vértice, para luego marcar el punto esa fración de distancia cerca del punto anterior al nuevo, en dirección al vértice (Si la fracción es 1/2, se marca el punto a mitad de camino).
 
-[Más Detalles](https://en.wikipedia.org/wiki/Chaos_game/ "https://en.wikipedia.org/wiki/Chaos_game/").
+[Más Detalles](https://en.wikipedia.org/wiki/Chaos_game "https://en.wikipedia.org/wiki/Chaos_game").
 
