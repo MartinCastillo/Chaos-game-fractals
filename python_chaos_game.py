@@ -8,8 +8,8 @@
 #imports
 import cv2;import numpy as np
 from math import ceil , sqrt
-import os ; import datetime
 from random import sample
+import os
 #Params
 image_size = 800; #500x500
 n_points = 300; #Número de puntos a dibujar
