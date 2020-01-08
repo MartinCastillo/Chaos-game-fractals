@@ -1,5 +1,4 @@
 # Uso
-<br>
 Al correr el archivo principal 
 
 ```bash
