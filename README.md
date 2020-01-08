@@ -22,7 +22,6 @@ Cuando está listo se guarda en la carpeta res, como nombre se le asignan cierta
 ![captura1](https://raw.githubusercontent.com/MartinCastillo/Chaos-game-fractals-from_scratch/master/captures/Captura3.PNG)
 <br>
 # Elementos importados
-<br>
 
 1. cv2
 2. numpy
@@ -31,7 +30,7 @@ Cuando está listo se guarda en la carpeta res, como nombre se le asignan cierta
 5. os
  
 # Funcionamiento
-<br>
+
 Se elige un punto de inicio y por cada iteración del programa elige uno de los vértices aleatoriamente (aunque se puede cambiar para que no reelija dos iguales seguidos), saca una fracción de la distacia entre el punto anterior y el vértice, para luego marcar el punto esa fración de distancia cerca del punto anterior al nuevo, en dirección al vértice (Si la fracción es 1/2, se marca el punto a mitad de camino).
 
 [Más Detalles](https://en.wikipedia.org/wiki/Chaos_game "https://en.wikipedia.org/wiki/Chaos_game").
