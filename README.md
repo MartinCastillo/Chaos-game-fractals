@@ -35,3 +35,11 @@ Se elige un punto de inicio y por cada iteración del programa elige uno de los 
 
 [Más Detalles](https://en.wikipedia.org/wiki/Chaos_game "https://en.wikipedia.org/wiki/Chaos_game").
 
+
+# Ejemplos
+
+![captura1](https://raw.githubusercontent.com/MartinCastillo/Chaos-game-fractals-from_scratch/master/res/puntos=10000;vertices=4;fraccion=0.6666666666666666;repetir_vertice=False.jpg)
+![captura2](https://raw.githubusercontent.com/MartinCastillo/Chaos-game-fractals-from_scratch/master/res/puntos=20000;vertices=3;fraccion=0.5;repetir_vertice=True.jpg)
+![captura3](https://raw.githubusercontent.com/MartinCastillo/Chaos-game-fractals-from_scratch/master/res/puntos=20000;vertices=4;fraccion=0.5;repetir_vertice=False.jpg)
+![captura4](https://raw.githubusercontent.com/MartinCastillo/Chaos-game-fractals-from_scratch/master/res/puntos=35000;vertices=5;fraccion=0.5;repetir_vertice=False.jpg)
+
