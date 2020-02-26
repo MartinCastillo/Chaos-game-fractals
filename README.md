@@ -16,18 +16,18 @@ Cuantos más puntos se usen mejor será el resultado.
 ![captura1](https://raw.githubusercontent.com/MartinCastillo/Chaos-game-fractals-from_scratch/master/captures/Captura2.PNG)
 <br>
 
-Cuando está listo se guarda en la carpeta res, como nombre se le asignan ciertas configuraciones ajustables.
+ Cuando está listo se guarda la imagen en la carpeta res y como nombre se le asignan ciertas configuraciones ajustables.
 <br>
 
 ![captura1](https://raw.githubusercontent.com/MartinCastillo/Chaos-game-fractals-from_scratch/master/captures/Captura3.PNG)
 <br>
 # Elementos importados
 
-1. cv2
-2. numpy
-3. math (ceil , sqrt)
-4. random (sample)
-5. os
+- cv2
+- numpy
+- math (ceil , sqrt)
+- random (sample)
+- os
  
 # Funcionamiento
 
