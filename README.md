@@ -1,5 +1,5 @@
 # Uso
-Se empieza a generar el posible fractal con puntos pseudoaleatorios.
+Se empieza a generar el posible fractal con puntos aleatorios.
 
 ![captura1](https://raw.githubusercontent.com/MartinCastillo/Chaos-game-fractals-from_scratch/master/captures/Captura1.PNG)
 <br>
